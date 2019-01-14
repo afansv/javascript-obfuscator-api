@@ -1,5 +1,5 @@
 {
-  "name": "obfuse",
+  "name": "javascript-obfuscator-api",
   "version": "1.0.0",
   "description": "Javascript obfuscator API",
   "main": "app.js",
@@ -10,9 +10,7 @@
   "license": "Unlicensed",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.16.4"
-  },
-  "devDependencies": {
-    "@types/node": "^10.12.18"
+    "express": "^4.16.4",
+    "javascript-obfuscator": "^0.18.1"
   }
 }
